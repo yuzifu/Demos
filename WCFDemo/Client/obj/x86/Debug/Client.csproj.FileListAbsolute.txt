@@ -1,0 +1,6 @@
+C:\Users\yuzifu\Desktop\WCFDemo\Client\bin\Debug\Client.exe.config
+C:\Users\yuzifu\Desktop\WCFDemo\Client\bin\Debug\Client.exe
+C:\Users\yuzifu\Desktop\WCFDemo\Client\bin\Debug\Client.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yuzifu\Desktop\WCFDemo\Client\obj\x86\Debug\Client.exe
+C:\Users\yuzifu\Desktop\WCFDemo\Client\obj\x86\Debug\Client.pdb

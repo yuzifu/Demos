@@ -1,0 +1,10 @@
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Hosting.exe
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Hosting.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Contracts.dll
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Services.dll
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Contracts.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\bin\Debug\Services.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\obj\x86\Debug\Hosting.exe
+C:\Users\yuzifu\Desktop\WCFDemo\Hosting\obj\x86\Debug\Hosting.pdb

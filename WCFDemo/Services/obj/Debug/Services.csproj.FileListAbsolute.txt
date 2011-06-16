@@ -1,0 +1,7 @@
+C:\Users\yuzifu\Desktop\WCFDemo\Services\bin\Debug\Services.dll
+C:\Users\yuzifu\Desktop\WCFDemo\Services\bin\Debug\Services.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Services\bin\Debug\Contracts.dll
+C:\Users\yuzifu\Desktop\WCFDemo\Services\bin\Debug\Contracts.pdb
+C:\Users\yuzifu\Desktop\WCFDemo\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuzifu\Desktop\WCFDemo\Services\obj\Debug\Services.dll
+C:\Users\yuzifu\Desktop\WCFDemo\Services\obj\Debug\Services.pdb
